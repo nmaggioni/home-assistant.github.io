@@ -97,6 +97,7 @@ Some components automatically create special groups containing component entitie
 - `group.all_devices`
 - `group.all_scripts`
 - `group.all_automations`
+- `group.all_sensors`
 
 You can see list of these groups in  **State** <img src='/images/screenshots/developer-tool-states-icon.png' class='no-shadow' height='38' /> page of the **Developer Tools**.
 
